@@ -1,1 +1,2 @@
-
+Wir haben uns entschieden das die VM`s auf Linels Laptop laufen da er das beste Laptop und da er eine externe SSD Festplatte hat, hat er das darauf gespeichert damit wir in notigen fälle das nach hause mitnehmen und an dem Proejkt weiter arbeiten.
+Wir wollen das jeder von uns 4 was zu tun hat und deswegen haben wir uns entschieden das Rewan und Aakib die Dokumentation machen und Samuele hilft Lionel mit die VMs als Hauptarbeit in diese Proejkt aber das heisst natürlich nicht das jeder nur das macht, sondern jeder muss helfen wenn er gerade nichts zu tun hat der Person wo gerade arbeitet.
