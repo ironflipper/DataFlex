@@ -1,4 +1,4 @@
-Wir 
+Wir haben uns zuerst mit die erhaltene Aufgabe beschäftigt und wollten schauen was wir genau machen muss
 
 Redundant Data Corporation
 
