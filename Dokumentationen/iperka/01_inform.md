@@ -1,3 +1,5 @@
+Wir 
+
 Redundant Data Corporation
 
 Wir haben eine Aufgabe von der Firma yeez1 bekommen und mussten TrueNAS, Windows Server 20xx, Windows 1x (enterprise edition) und Ubuntu (latest ver.) erstellen.
