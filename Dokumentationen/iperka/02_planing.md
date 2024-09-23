@@ -1,1 +1,6 @@
-Wir haben uns entschieden die VMs auf Lionel's Laptop laufen zu lassen, weil er das beste Laptop und er eine externe SSD Festplatte hat. Wir können dann theoretisch die Festplatte nachhause mitnehmen und jeder kann individuell daran arbeiten. Wir wollen, dass jeder von uns etwas zu tun hat und deswegen haben wir uns entschieden, dass Rewan und Aakib die Dokumentation machen und Samuele Lionel hilft mit den VMs als Hauptarbeit. Aber das heisst natürlich nicht, dass jeder nur das macht, was ihm zugewiesen wurde, sondern jeder helfen muss wenn er gerade nichts zu tun hat.
+Schon in der ersten Woche haben wir konkrete Ziele für den Ablauf des Projekts festgelegt. Wir haben beschlossen, alle notwendigen ISO-Dateien und VMs direkt am ersten Tag auf Lionels Laptop zu installieren. Ausserdem haben wir gemeinsam besprochen, was wir in den nächsten zwei Wochen erreichen möchten.
+
+Dabei haben wir uns realistisch Gedanken gemacht und nicht erwartet, dass wir in der zweiten Woche bereits alles fertigstellen. Stattdessen ist unser Ziel, bis zur zweiten Woche eine Basis zu schaffen und in der dritten Woche alle Details fertig haben.
+
+Zusätzlich haben wir eine Taskliste in Excel erstellt, die die Aufgaben für die kommenden Wochen festhält.
+
