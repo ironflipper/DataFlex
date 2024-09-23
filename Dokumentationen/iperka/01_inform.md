@@ -1,7 +1,7 @@
 Redundant Data Corporation
 
-wir haben eine Aufgabe von die Firma yeez1 bekommen und mussten truenas, windows server 20xx, windows 1x (enterprise edition), ubuntu (latest ver.) erstellen.
+Wir haben eine Aufgabe von der Firma yeez1 bekommen und mussten TrueNAS, Windows Server 20xx, Windows 1x (enterprise edition) und Ubuntu (latest ver.) erstellen.
 
-Der Projektleiter hat uns gesagt das 3-4 Personen braucht für diese Auftrag und Rewan, Samuele, Aakib und Leonel werden daran arbeiten.
+Der Projektleiter hat uns mitgeteilt, dass es 3-4 Personen braucht für diesen Auftrag. Rewan, Samuele, Aakib und Lionel werden daran arbeiten.
 
-Es vermittelt Flexibilität im Umgang mit Daten, was ein starkes, zukunftsorientiertes Bild für euer Team schafft
+Es vermittelt Flexibilität im Umgang mit Daten, was ein starkes, zukunftsorientiertes Bild für euer Team schafft.
