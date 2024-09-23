@@ -1,8 +1,17 @@
-### Wir haben uns von Anfang an entschieden, alles gemeinsam zu machen und uns gegenseitig zu fragen, was zu tun ist, besonders bei Schwierigkeiten. Wir haben eine Tabelle in Exle gemacht welche man unter den Ordner andere_Dokumente finden kann. unten ist eine Bild davon.
+### Wir haben uns von Anfang an entschieden, alles gemeinsam zu machen und uns gegenseitig zu unterstützen, insbesondere bei Schwierigkeiten. Unsere getroffenen Entscheidungen sind unten aufgeführt, und für schnell entschiedene Punkte haben wir eine Excel-Tabelle erstellt.
 
-1. Wie das Team heissen soll. Es war schwierig, einen passenden Teamnamen für das Projekt zu finden, und wir hatten mehrere Ideen, wie z. B. "yeez1 Migration". Da es sich jedoch nicht um eine Migration handelt, haben wir uns für "DataFlex" entschieden, weil der Name Flexibilität im Umgang mit Daten vermittelt und unserer Meinung nach gut zum Thema passt.
-2. Nachdem wir einen Teamnamen gefunden hatten, war es nicht schwierig, einen passenden Projektnamen zu wählen. Wir haben uns für "Projekt FlexData" entschieden, da dieses Team speziell für dieses Projekt zusammengestellt wurde.
-3. Wir haben verglichen, wer den besten Laptop hat, weil wir wollen das der Person mit der besten Laptop die VMs erstellt. Dafür mussten wir die Prozessoren unserer Laptops vergleichen und haben herausgefunden, dass Lionel den besten Laptop hat.
-4. Lionel hat das beste laptop und deswegen hat er die  VMs auf seine Laptop erstellt uns Samuele wird ihm mit dem erstellen helfen.
-5. Rewan wird die Dokumentation machen, und Aakib wird ihm dabei helfen.
-6. Wir haben zusammen eine passende WIN Administrator Password geunden welche wir uns merken können. Wir haben uns entschieden das wir die ersten Buchstaben von unsere Namen verwenden und 3 Nummers damit es funktioniert
+1. **Teamname:** Es war schwierig, einen passenden Teamnamen zu finden, und wir hatten mehrere Ideen, wie z. B. "yeez1 Migration". Da es sich jedoch nicht um eine Migration handelt, haben wir uns für "DataFlex" entschieden, da der Name Flexibilität im Umgang mit Daten vermittelt und unserer Meinung nach gut zum Thema passt.
+
+2. **Projektname:** Nachdem wir einen Teamnamen gefunden hatten, war es nicht schwierig, einen Projektnamen auszuwählen. Wir haben uns für "Projekt FlexData" entschieden, da dieses Team speziell für dieses Projekt zusammengestellt wurde.
+
+3. **Hardware:** Wir haben die Prozessoren unserer Laptops verglichen, um festzustellen, wer den besten Laptop hat, da diese Person die VMs erstellen soll. Es stellte sich heraus, dass Lionel den besten Laptop besitzt.
+
+4. **VM-Erstellung:** Da Lionel das beste Gerät hat, wird er die VMs auf seinem Laptop erstellen, und Samuele wird ihn dabei unterstützen.
+
+5. **Dokumentation:** Rewan wird die Dokumentation erstellen, unterstützt von Aakib.
+
+6. **Passwortwahl:** Wir haben zusammen ein passendes Windows-Administrator-Passwort gefunden, das leicht zu merken ist. Dafür haben wir die Anfangsbuchstaben unserer Namen verwendet, ergänzt durch drei Zahlen.
+
+7. **GitHub:** Wir haben beschlossen, alles über GitHub zu verwalten, da dies unserer Meinung nach die beste Plattform für unsere Zusammenarbeit ist.
+
+8. **VM-Software:** Wir haben uns für VMware Pro entschieden, da es mehr Funktionen bietet, z. B. Snapshots, und daher besser für unsere Anforderungen geeignet ist als VirtualBox.
