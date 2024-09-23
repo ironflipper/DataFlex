@@ -1,1 +1,3 @@
-
+Erste Entscheidung war für jeder, wie viel Personen sollen an diese Projekt zusammenarbeiten. Unsere gruppe hat sich entschieden eine 4er Gruppe zumachen.
+Zweite entscheidung war die Personen zu wählen da haben wir uns entschieden das wir Rewan, Samuele, Aakib und Leonel gut zusammenarbeiten können und genau deswegen haben wir eine Team zusammengebaut.
+Dritte entscheidung wie das Team heisst und da war es schwirig zu entscheiden was für eine Team zu diese Projekt passt und wir haben mehrere Ideen wie z.B yeez1 Migration aber da es sich nicht direkt um eine Migration handelt haben wir uns für DataFlex entschieden.
