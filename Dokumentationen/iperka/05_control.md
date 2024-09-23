@@ -1,1 +1,1 @@
-Wir haben ungöltige Passowrd für WIN Administrator gehabt und dann wollten wir eine passende Passowrd finden welche wir und merken können. Wir haben uns entschieden das wir die ersten Buchstaben von unsere Namen verwenden und 3 Nummers damit es funktioniert
+
