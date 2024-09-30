@@ -20,11 +20,5 @@ Dieser Screenshot zeigt den **Windows iSCSI-Initiator** und den Versuch, eine Ve
 
 ![iSCSI Verbindungsfehler](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Bild%20(1).png)
 
----
-
-### iSCSI-Tutorial  
-Hier sahen wir uns ein Tutorial auf YouTube an, das erklärt, wie man **iSCSI** in **TrueNAS** und **Windows 10/11** einrichtet.
-
-![iSCSI-Tutorial](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Bild%20(2).png)
 
 
