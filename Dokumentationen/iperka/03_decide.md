@@ -1,4 +1,6 @@
-### Wir haben uns von Anfang an entschieden, alles gemeinsam zu machen und uns gegenseitig zu unterstützen, insbesondere bei Schwierigkeiten. Unsere getroffenen Entscheidungen sind unten aufgeführt, und für schnell entschiedene Punkte haben wir eine Excel-Tabelle erstellt.
+# ipErka - Decide
+
+ Wir haben uns von Anfang an entschieden, alles gemeinsam zu machen und uns gegenseitig zu unterstützen, insbesondere bei Schwierigkeiten. Unsere getroffenen Entscheidungen sind unten aufgeführt, und für schnell entschiedene Punkte haben wir eine Excel-Tabelle erstellt.
 
 1. **Teamname:** Es war schwierig, einen passenden Teamnamen zu finden, und wir hatten mehrere Ideen, wie z. B. "yeez1 Migration". Da es sich jedoch nicht um eine Migration handelt, haben wir uns für "DataFlex" entschieden, da der Name Flexibilität im Umgang mit Daten vermittelt und unserer Meinung nach gut zum Thema passt.
 
