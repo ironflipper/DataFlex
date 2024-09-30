@@ -1,4 +1,4 @@
-# ipErka - Decide (Entscheidung)
+# ipErka - Decide (Entscheiden)
 
  Wir haben uns von Anfang an entschieden, alles gemeinsam zu machen und uns gegenseitig zu unterstützen, insbesondere bei Schwierigkeiten. Unsere getroffenen Entscheidungen sind unten aufgeführt, und für schnell entschiedene Punkte haben wir eine Excel-Tabelle erstellt.
 
