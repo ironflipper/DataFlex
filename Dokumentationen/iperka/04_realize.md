@@ -1,7 +1,5 @@
 ## ipeRka - Realize
 
-# Realize
-
 ### Bereitstellungskonfiguration
 Hier wurde die Konfiguration für die Bereitstellung eines neuen Domänencontrollers für eine neue Domäne durchgeführt. Die Domäne wurde „yeez1.local“ genannt. Dies bedeutet, dass ein neues Active Directory erstellt und dieser Server als primärer Domänencontroller konfiguriert wird.
 
