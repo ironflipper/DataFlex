@@ -2,7 +2,7 @@
 
 ## Projekt Beschreibung
 
-Wir haben ein Projekt einer Kleinfirma namens "yeez1 AG" erhalten, welche ein Backupsystem mit verschiedenen Servern braucht.
+Wir haben ein Projekt einer Kleinfirma namens "yeez1 AG" erhalten, welches ein Backupsystem mit verschiedenen Servern & Clients braucht.
 Dafür haben wir ein Team erstellt und dieses Projekt kreiert.
 
 ## IPERKA Dokumentation
