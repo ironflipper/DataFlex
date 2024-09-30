@@ -11,7 +11,7 @@ Die Server, die wir erstellen müssen, lauten wie folgt:
 - Windows 10 (Enterprise)
 - Ubuntu
 
-### TrueNAS und Windows Server Tutorials
+### Ressourcen, die wir verwendet haben
 
 [**Backup & Recovery Made Easy: TrueNAS ZFS Replication Tutorial** - Lawrence Systems](https://www.youtube.com/watch?v=XIj0iHtZvOg)
 
