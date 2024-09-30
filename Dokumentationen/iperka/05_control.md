@@ -1,1 +1,1 @@
-# iperKa - Control (Kontrollieren)
+# iperKa - Control (Kontrolle)
