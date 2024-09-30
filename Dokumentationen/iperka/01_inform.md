@@ -13,7 +13,19 @@ Die Server, die wir erstellen müssen, lauten wie folgt:
 
 ### Ressourcen, die wir verwendet haben
 
-[**Backup & Recovery Made Easy: TrueNAS ZFS Replication Tutorial** - Lawrence Systems](https://www.youtube.com/watch?v=XIj0iHtZvOg)
+[**TrueNAS Backup & Recovery Tutorial** - Lawrence Systems](https://www.youtube.com/watch?v=XIj0iHtZvOg)
 
-[**TrueNAS iSCSI Setup and Integration with Windows 10/11** - Raid Owl](https://www.youtube.com/watch?v=TBFB6F--Nvk)
+[**TrueNAS iSCSI und Windows-Integration** - Raid Owl](https://www.youtube.com/watch?v=TBFB6F--Nvk)
+
+[**TrueNAS NFS Setup for XCP-ng** - Tech Tutorials (David McKone)](https://www.youtube.com/watch?v=ySMitWnNxp4&t=551s&ab_channel=TechTutorials-DavidMcKone)
+
+[**How to Backup & Restore Windows** - NETVN82](https://www.youtube.com/watch?v=juMz3WcZB4U&ab_channel=NETVN82)
+
+[**Install DHCP on Windows Server** - IT King](https://www.youtube.com/watch?v=r4mx_Iu0lr4)
+
+[**How to Install Hyper-V on Windows Server** - IT King](https://www.youtube.com/watch?v=vsQX08u6YNA&ab_channel=ITKing)
+
+[**How to Install Windows Server** - IT King](https://www.youtube.com/watch?v=Rg9-YDDHkyk&t=151s&ab_channel=ITKing)
+
+[**Install Active Directory on Windows Server** - IT King](https://www.youtube.com/watch?v=Mww5THo5zf8&ab_channel=ITKing)
 
