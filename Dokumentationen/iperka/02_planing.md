@@ -2,5 +2,3 @@ Schon in der ersten Woche haben wir konkrete Ziele für den Ablauf des Projekts 
 
 Dabei haben wir uns realistisch Gedanken gemacht und nicht erwartet, dass wir in der zweiten Woche bereits alles fertigstellen. Stattdessen ist unser Ziel, bis zur zweiten Woche eine Basis zu schaffen und in der dritten Woche alle Details fertig haben.
 
-Zusätzlich haben wir eine Taskliste in Excel erstellt, die die Aufgaben für die kommenden Wochen festhält.
-
