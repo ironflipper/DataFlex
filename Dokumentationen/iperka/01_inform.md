@@ -11,8 +11,9 @@ Die Server, die wir erstellen müssen, lauten wie folgt:
 - Windows 10 (Enterprise)
 - Ubuntu
 
-### iSCSI-Tutorials
+### TrueNAS und Windows Server Tutorials
 
 [**Backup & Recovery Made Easy: TrueNAS ZFS Replication Tutorial** - Lawrence Systems](https://www.youtube.com/watch?v=XIj0iHtZvOg)
 
-[**iSCSI Setup in TrueNAS and Windows 10/11** - Raid Owl](https://www.youtube.com/watch?v=TBFB6F--Nvk)
+[**TrueNAS iSCSI Setup and Integration with Windows 10/11** - Raid Owl](https://www.youtube.com/watch?v=TBFB6F--Nvk)
+
