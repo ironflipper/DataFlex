@@ -1,6 +1,11 @@
 # Projekt "DataFlex"
 
-## Dokumentation
+## Projekt Beschreibung
+
+Wir haben ein Projekt einer Kleinfirma namens "yeez1 AG" erhalten, welche ein Backupsystem mit verschiedenen Servern braucht.
+Dafür haben wir ein Team erstellt und dieses Projekt kreiert.
+
+## IPERKA Dokumentation
 
 Für die Dokumentation haben wir uns an das IPERKA System angewandt, welches man unter folgenden Links findet:
 
