@@ -1,6 +1,6 @@
 # ipErka - Decide (Entscheiden)
 
- Wir haben uns von Anfang an entschieden, alles gemeinsam zu machen und uns gegenseitig zu unterstützen, insbesondere bei Schwierigkeiten. Unsere getroffenen Entscheidungen sind unten aufgeführt, und für schnell entschiedene Punkte haben wir eine Excel-Tabelle erstellt.
+Wir haben uns von Anfang an entschieden, alles gemeinsam zu machen und uns gegenseitig zu unterstützen, insbesondere bei Schwierigkeiten. Unsere getroffenen Entscheidungen sind unten aufgeführt, und für schnell entschiedene Punkte haben wir eine Excel-Tabelle erstellt.
 
 1. **Teamname:** Es war schwierig, einen passenden Teamnamen zu finden, und wir hatten mehrere Ideen, wie z. B. "yeez1 Migration". Da es sich jedoch nicht um eine Migration handelt, haben wir uns für "DataFlex" entschieden, da der Name Flexibilität im Umgang mit Daten vermittelt und unserer Meinung nach gut zum Thema passt.
 
@@ -17,3 +17,13 @@
 7. **GitHub:** Wir haben beschlossen, alles über GitHub zu verwalten, da dies unserer Meinung nach die beste Plattform für unsere Zusammenarbeit ist.
 
 8. **VM-Software:** Wir haben uns für VMware Pro entschieden, da es mehr Funktionen bietet, z. B. Snapshots, und daher besser für unsere Anforderungen geeignet ist als VirtualBox.
+
+---
+
+### Windows Setup und RAID-Z Konfiguration
+
+![Windows Setup](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Bild.png)  
+Wir haben den Windows Setup für unseren Server durchgeführt. Dabei entschieden wir uns für den Windows Server 2019.
+
+![RAID-Z Pool](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Bild%20(5).png)  
+Anfangs hatten wir für jede Abteilung eine separate Disk eingerichtet. Später haben wir dies jedoch geändert und die drei Disks in einem Pool zusammengefasst, der mit RAID-Z konfiguriert ist. Innerhalb dieses Pools sind die Abteilungen nun strukturiert unterteilt.
