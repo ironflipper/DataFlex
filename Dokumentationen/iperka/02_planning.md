@@ -34,3 +34,4 @@ Das Projekt sieht vor, dass zwei Clients (Windows und Linux) auf einen zentralen
 
 - **Windows-Server**: Verwalter der zentralen **Shares**, die verschiedenen Benutzern zugeordnet sind.
 - **TrueNAS**: Dient als zentrale Speicher- und Backup-Lösung. Alle Daten und der Windows-Server selbst werden regelmäßig auf TrueNAS gesichert, um die Datensicherheit zu gewährleisten.
+![Konzept](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Image%20(1).jpg)
