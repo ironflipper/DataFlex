@@ -1,4 +1,6 @@
-# <img src="https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/LOGO.png" alt="DataFlex Logo" width="200"/>
+# <div align="center">
+    <img src="https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/LOGO.png" alt="DataFlex Logo" width="200"/>
+</div>
 
 # Projekt "DataFlex"
 
