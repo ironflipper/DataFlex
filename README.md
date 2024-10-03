@@ -15,3 +15,16 @@ Für die Dokumentation haben wir uns an das IPERKA System angewandt, welches man
 4. [Realize](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/04_realize.md)
 5. [Control](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/05_control.md)
 6. [Assess](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/06_assess.md)
+
+
+Hier das Bild vom Konzept:  
+![Konzept](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Image%20(1).jpg)
+
+## Konzept-Erklärung
+
+Das Projekt sieht vor, dass mehrere Clients (Windows und Linux) auf einen zentralen **Windows-Server** zugreifen, der wiederum über **iSCSI** mit einem **TrueNAS**-Speichersystem verbunden ist.
+
+- **Windows-Server**: Verwalter der zentralen **Shares**, die verschiedenen Abteilungen und Benutzern zugeordnet sind.
+- **TrueNAS**: Dient als zentrale Speicher- und Backup-Lösung. Alle Daten und der Windows-Server selbst werden regelmäßig auf TrueNAS gesichert, um die Datensicherheit zu gewährleisten.
+
+Diese Architektur sorgt dafür, dass alle Benutzer Zugriff auf die benötigten Dateien haben und regelmäßige Backups gewährleistet sind.
