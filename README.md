@@ -1,13 +1,14 @@
 # Projekt "DataFlex"
 
+![Logo](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/LOGO.png)
+
 ## Projekt Beschreibung
 
-Wir haben ein Projekt einer Kleinfirma namens "yeez1 AG" erhalten, welches ein Backupsystem mit verschiedenen Servern & Clients braucht.
-Dafür haben wir ein Team erstellt und dieses Projekt kreiert.
+Wir haben ein Projekt einer Kleinfirma namens **"yeez1 AG"** erhalten, welches ein Backupsystem mit verschiedenen Servern & Clients braucht. Dafür haben wir ein Team erstellt und dieses Projekt kreiert.
 
 ## IPERKA Dokumentation
 
-Für die Dokumentation haben wir uns an das IPERKA System angewandt, welches man unter folgenden Links findet:
+Für die Dokumentation haben wir uns an das **IPERKA-System** angewandt, welches man unter folgenden Links findet:
 
 1. [Inform](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/01_inform.md)
 2. [Planning](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/02_planning.md)
@@ -15,5 +16,3 @@ Für die Dokumentation haben wir uns an das IPERKA System angewandt, welches man
 4. [Realize](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/04_realize.md)
 5. [Control](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/05_control.md)
 6. [Assess](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/06_assess.md)
-
-
