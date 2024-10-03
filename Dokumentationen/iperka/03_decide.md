@@ -20,7 +20,7 @@ Wir haben uns von Anfang an entschieden, alles gemeinsam zu machen und uns gegen
 
 ---
 
-### Windows Setup und RAID-Z Konfiguration
+### Windows-Setup und Disk-Setup 
 
 ![Windows Setup](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Bild.png)  
 Wir haben den Windows Setup für unseren Server durchgeführt. Dabei entschieden wir uns für den Windows Server 2019.
