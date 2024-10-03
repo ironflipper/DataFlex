@@ -27,4 +27,3 @@ Das Projekt sieht vor, dass mehrere Clients (Windows und Linux) auf einen zentra
 - **Windows-Server**: Verwalter der zentralen **Shares**, die verschiedenen Abteilungen und Benutzern zugeordnet sind.
 - **TrueNAS**: Dient als zentrale Speicher- und Backup-Lösung. Alle Daten und der Windows-Server selbst werden regelmäßig auf TrueNAS gesichert, um die Datensicherheit zu gewährleisten.
 
-Diese Architektur sorgt dafür, dass alle Benutzer Zugriff auf die benötigten Dateien haben und regelmäßige Backups gewährleistet sind.
