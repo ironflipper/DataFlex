@@ -10,7 +10,7 @@ Dieser Teamname steht für die *Flexibilität im Umgang mit Daten*, was ein star
 
 Die Server und die Clients, die wir erstellen müssen, lauten wie folgt:
 - TrueNAS
-- Windows Server 2016
+- Windows Server 2019
 - Windows 10 (Enterprise)
 - Ubuntu
 
