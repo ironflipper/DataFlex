@@ -1,4 +1,4 @@
-# ipErka - Decide (Entscheiden)
+# ipErka - Decide (Entscheiden)  <img src="https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/LOGO.png" alt="DataFlex Logo" align="right" width="50"/>
 
 Wir haben uns von Anfang an entschieden, alles gemeinsam zu machen und uns gegenseitig zu unterstützen, insbesondere bei Schwierigkeiten. Unsere getroffenen Entscheidungen sind unten aufgeführt, und für schnell entschiedene Punkte haben wir eine Excel-Tabelle erstellt.
 
