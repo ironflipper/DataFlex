@@ -2,7 +2,7 @@
 
 
 ### Fehlermeldung bei der Voraussetzung  
-Während der Konfiguration der Active Directory-Domänendienste trat ein Fehler bei der Überprüfung der Voraussetzungen auf. Die Fehlermeldung deutet darauf hin, dass das **TCP/IP-Netzwerkprotokoll** ordnungsgemäß konfiguriert werden muss. Um dies zu lösen, haben wir das Internet von "Host" auf "NAT" in den VMware-Einstellungen umgestellt.
+Während der Konfiguration der Active Directory-Domänendienste trat ein Fehler bei der Überprüfung der Voraussetzungen auf. Die Fehlermeldung deutet darauf hin, dass das **TCP/IP-Netzwerkprotokoll** ordnungsgemäss konfiguriert werden muss. Um dies zu lösen, haben wir das Internet von "Host" auf "NAT" in den VMware-Einstellungen umgestellt.
 
 ![Fehlermeldung bei der Voraussetzung](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Bild%20(7).png)
 
