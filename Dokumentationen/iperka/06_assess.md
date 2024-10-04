@@ -21,4 +21,4 @@ Ohne diese strukturierte Herangehensweise und die enge Zusammenarbeit wäre unse
 ---
 
 **Abschlusswort**  
-Das Projekt war ein Erfolg dank klarer Kommunikation und Zusammenarbeit.
+Dieses Projekt war eine grossartige Gelegenheit, durch klare Kommunikation und Zusammenarbeit ein erfolgreiches Ergebnis zu erzielen.
