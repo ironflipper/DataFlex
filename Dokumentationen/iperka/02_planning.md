@@ -1,4 +1,4 @@
-# iPerka - Planning
+# iPerka - Planning  <img src="https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/LOGO.png" alt="DataFlex Logo" align="right" width="50"/>
 
 Schon in der ersten Woche haben wir konkrete Ziele für den Ablauf des Projekts festgelegt. Wir haben beschlossen, alle notwendigen ISO-Dateien und VMs direkt am ersten Tag auf Lionels Laptop zu installieren. Ausserdem haben wir gemeinsam besprochen, was wir in den nächsten zwei Wochen erreichen möchten.
 
