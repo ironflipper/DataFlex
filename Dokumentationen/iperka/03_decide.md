@@ -4,7 +4,7 @@ Wir haben uns von Anfang an entschieden, alles gemeinsam zu machen und uns gegen
 
 1. **Teamname:** Es war schwierig, einen passenden Teamnamen zu finden, und wir hatten mehrere Ideen, wie z. B. "yeez1 Migration". Da es sich jedoch nicht um eine Migration handelt, haben wir uns für "DataFlex" entschieden, da der Name Flexibilität im Umgang mit Daten vermittelt und unserer Meinung nach gut zum Thema passt.
 
-2. **Projektname:** Nachdem wir einen Teamnamen gefunden hatten, war es nicht schwierig, einen Projektnamen auszuwählen. Wir haben uns für "Projekt FlexData" entschieden, da dieses Team speziell für dieses Projekt zusammengestellt wurde.
+2. **Projektname:** Nachdem wir einen Teamnamen gefunden hatten, war es nicht schwierig, einen Projektnamen auszuwählen. Wir haben uns für "Projekt DataFlex" entschieden, da dieses Team speziell für dieses Projekt zusammengestellt wurde.
 
 3. **Hardware:** Wir haben die Prozessoren unserer Laptops verglichen, um festzustellen, wer den besten Laptop hat, da diese Person die VMs erstellen soll. Es stellte sich heraus, dass Lionel den besten Laptop besitzt.
 
