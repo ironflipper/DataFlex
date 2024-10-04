@@ -26,13 +26,13 @@ Die **3-2-1-Backup-Strategie** wird für maximale Datensicherheit implementiert:
    - **Externe Festplatte** zur Sicherung der Daten.
 
 3. **1 Kopie an einem externen Ort**:
-   - Ein Backup wird auf **Lionels externer Festplatte** gespeichert, um sicherzustellen, dass ein Backup außerhalb des primären Systems gesichert ist.
+   - Ein Backup wird auf **Lionels externer Festplatte** gespeichert, um sicherzustellen, dass ein Backup ausserhalb des primären Systems gesichert ist.
 
 ## Konzept-Erklärung
 
 Das Projekt sieht vor, dass zwei Clients (Windows und Linux) auf einen zentralen **Windows-Server** zugreifen, der wiederum mit einem **TrueNAS**-Speichersystem verbunden ist.
 
 - **Windows-Server**: Verwalter der zentralen **Shares**, die verschiedenen Benutzern zugeordnet sind.
-- **TrueNAS**: Dient als zentrale Speicher- und Backup-Lösung. Alle Daten und der Windows-Server selbst werden regelmäßig auf TrueNAS gesichert, um die Datensicherheit zu gewährleisten.
+- **TrueNAS**: Dient als zentrale Speicher- und Backup-Lösung. Alle Daten und der Windows-Server selbst werden regelmässig auf TrueNAS gesichert, um die Datensicherheit zu gewährleisten.
 
 ![Konzept](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Image%20(1).jpg)
