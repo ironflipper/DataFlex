@@ -2,12 +2,12 @@
 
 Schon in der ersten Woche haben wir konkrete Ziele für den Ablauf des Projekts festgelegt. Wir haben beschlossen, alle notwendigen ISO-Dateien und VMs direkt am ersten Tag auf Lionels Laptop zu installieren. Ausserdem haben wir gemeinsam besprochen, was wir in den nächsten zwei Wochen erreichen möchten.
 
-Dabei haben wir uns realistisch Gedanken gemacht und nicht erwartet, dass wir in der zweiten Woche bereits alles fertigstellen. Stattdessen ist unser Ziel, bis zur zweiten Woche eine Basis zu schaffen und in der dritten Woche alle Details fertig haben.
+Dabei haben wir uns realistisch Gedanken gemacht und nicht erwartet, dass wir in der zweiten Woche bereits alles fertigstellen. Stattdessen ist unser Ziel, bis zur zweiten Woche eine Basis zu schaffen und in der dritten Woche alle Details fertig zu haben.
 
 ## Infrastrukturplan
 
 - **TrueNAS** wird als zentrale Speicherlösung genutzt, um eine einheitliche NAS-Lösung für den Zugriff aller Clients bereitzustellen.
-- Ein **Windows-Server** wird als Vermittler für die Clients fungieren und mit dem NAS verbunden.
+- Ein **Windows-Server** wird als Vermittler für die Clients fungieren und wird mit dem NAS verbunden sein.
 - Es werden zwei Arten von Clients verwendet:
   - **Windows-Client**.
   - **Linux-Client**.
@@ -34,4 +34,5 @@ Das Projekt sieht vor, dass zwei Clients (Windows und Linux) auf einen zentralen
 
 - **Windows-Server**: Verwalter der zentralen **Shares**, die verschiedenen Benutzern zugeordnet sind.
 - **TrueNAS**: Dient als zentrale Speicher- und Backup-Lösung. Alle Daten und der Windows-Server selbst werden regelmäßig auf TrueNAS gesichert, um die Datensicherheit zu gewährleisten.
+
 ![Konzept](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Image%20(1).jpg)
