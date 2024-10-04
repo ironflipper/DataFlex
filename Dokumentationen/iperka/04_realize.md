@@ -16,14 +16,14 @@ Hier sieht man, dass der Server in der Domain ist.
 ![Server in der Domain](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Bild%20(3).png)
 
 ### Benutzer erstellen
-Danach haben wir die Benutzer erstellt, auf dem obigen Bild ist einer dieser Benutzer zu sehen.
+Danach haben wir die Benutzer erstellt. Im folgenden Bild ist einer dieser Benutzer zu sehen.
 
 ![Benutzer erstellen](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Bild%20(9).png)
 
 ---
 
 ### iSCSI-Tutorial  
-Hier sahen wir uns ein Tutorial auf YouTube an, das erklärt, wie man **iSCSI** in **TrueNAS** und **Windows 10/11** einrichtet.
+Hier sahen wir uns ein Tutorial auf YouTube an, welches erklärt, wie man **iSCSI** in **TrueNAS** und **Windows 10/11** einrichtet.
 
 ![iSCSI-Tutorial](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Bild%20(2).png)
 
