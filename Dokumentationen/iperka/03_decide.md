@@ -18,6 +18,12 @@ Wir haben uns von Anfang an entschieden, alles gemeinsam zu machen und uns gegen
 
 8. **VM-Software:** Wir haben uns für VMware Pro entschieden, da es mehr Funktionen bietet, z. B. Snapshots, und daher besser für unsere Anforderungen geeignet ist als VirtualBox.
 
+Zudem haben wir entschieden, einen Windows-Server 2019 als zentrales Verwaltungssystem für die Clients zu implementieren.
+
+TrueNAS als zentrales Speichersystem.
+Windows-Server zur Verwaltung und für die Verbindungen zu den Clients (Windows und Linux).
+Verwendung der 3-2-1-Backup-Strategie, um die Datensicherheit zu gewährleisten.
+
 ---
 
 ### Windows-Setup und Disk-Setup 
