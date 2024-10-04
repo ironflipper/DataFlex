@@ -8,7 +8,7 @@ Wir haben uns von Anfang an entschieden, alles gemeinsam zu machen und uns gegen
 
 3. **Hardware:** Wir haben die Prozessoren unserer Laptops verglichen, um festzustellen, wer den besten Laptop hat, da diese Person die VMs erstellen soll. Es stellte sich heraus, dass Lionel den besten Laptop besitzt.
 
-4. **VM-Erstellung:** Da Lionel das beste Gerät hat, wird er die VMs auf seinem Laptop erstellen, und Samuele wird ihn dabei unterstützen.
+4. **VM-Erstellung:** Da Lionel das leistungsfähigste Gerät hat, wird er die VMs auf seinem Laptop erstellen, und Samuele wird ihn dabei unterstützen.
 
 5. **Dokumentation:** Rewan wird die Dokumentation erstellen, unterstützt von Aakib.
 
