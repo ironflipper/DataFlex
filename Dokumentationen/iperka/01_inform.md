@@ -5,7 +5,7 @@ Unser Chef will den Auftrag bekommen und hat uns die Aufgabe zugeteilt und mitge
 Nun haben wir ein Team erstellt: "Dataflex" und unser Projekt "Dataflex Project".  
 Dieser Teamname steht für die *Flexibilität im Umgang mit Daten*, was ein starkes, zukunftsorientiertes Bild für unser Team schafft.
 
-Die Server, die wir erstellen müssen, lauten wie folgt:
+Die Server und die Clients, die wir erstellen müssen, lauten wie folgt:
 - TrueNAS
 - Windows Server 2016
 - Windows 10 (Enterprise)
