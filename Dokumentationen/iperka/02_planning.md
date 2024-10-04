@@ -19,7 +19,7 @@ Die **3-2-1-Backup-Strategie** wird für maximale Datensicherheit implementiert:
 1. **3 Kopien der Daten**:
    - Eine Kopie auf **TrueNAS**.
    - Eine Kopie auf **Rewans Laptop**.
-   - Eine Kopie auf **Lionels Laptop**.
+   - Eine Kopie auf **Lionels externe Festplatte**.
    
 2. **2 verschiedene Speicherarten**:
    - **TrueNAS** als zentraler Speicher.
