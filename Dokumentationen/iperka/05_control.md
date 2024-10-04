@@ -16,7 +16,7 @@ Um das vorherige Problem zu lösen, haben wir eine neue **HDD** zur VM hinzugef�
 ---
 
 ### iSCSI Verbindungsfehler  
-Dieser Screenshot zeigt den **Windows iSCSI-Initiator** und den Versuch, eine Verbindung zum iSCSI-Zielportal herzustellen. Die IP-Adresse 192.168.3.129 wurde eingegeben, jedoch trat ein Verbindungsfehler auf. Möglicherweise liegt ein Netzwerkproblem vor.
+Dieser Screenshot zeigt den **Windows iSCSI-Initiator** und den Versuch, eine Verbindung zum iSCSI-Zielportal herzustellen. Die IP-Adresse 192.168.3.129 wurde eingegeben, jedoch trat ein Verbindungsfehler auf. Bei dem Problem handelte es sich um ein Netzwerkproblem.
 
 ![iSCSI Verbindungsfehler](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Bild%20(1).png)
 
