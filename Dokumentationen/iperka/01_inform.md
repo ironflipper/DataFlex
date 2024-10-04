@@ -14,7 +14,7 @@ Die Server und die Clients, die wir erstellen müssen, lauten wie folgt:
 - Windows 10 (Enterprise)
 - Ubuntu
 
-### Ressourcen, die wir verwendet haben
+## Ressourcen, die wir verwendet haben
 
 [**TrueNAS Backup & Recovery Tutorial** - Lawrence Systems](https://www.youtube.com/watch?v=XIj0iHtZvOg)
 
