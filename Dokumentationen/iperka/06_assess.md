@@ -16,7 +16,8 @@ Ohne diese strukturierte Herangehensweise und die enge Zusammenarbeit wäre unse
 
 ---
 
-![Unser Logo](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/LOGO.png) align="right"
+![Unser Logo](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/LOGO.png) alt="DataFlex Logo" align="middle"/> 
+
 
 ---
 
