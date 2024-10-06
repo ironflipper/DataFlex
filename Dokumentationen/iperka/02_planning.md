@@ -33,6 +33,8 @@ Die **3-2-1-Backup-Strategie** wird für maximale Datensicherheit implementiert:
 Das Projekt sieht vor, dass zwei Clients (Windows und Linux) auf einen zentralen **Windows-Server** zugreifen, der wiederum mit einem **TrueNAS**-Speichersystem verbunden ist.
 
 - **Windows-Server**: Verwalter der zentralen **Shares**, die verschiedenen Benutzern zugeordnet sind.
-- **TrueNAS**: Dient als zentrale Speicher- und Backup-Lösung. Alle Daten und der Windows-Server selbst werden regelmässig auf TrueNAS gesichert, um die Datensicherheit zu gewährleisten.
+- **TrueNAS**: Dient als zentrale Speicherlösung. Der Windows-Server wird über eine iSCSI-Verbindung mit dem NAS verbunden, und alle Backups werden mit **Duplicati** durchgeführt. Das Full-Backup wird dabei auf dem NAS gespeichert, um die Datensicherheit zu gewährleisten.
+
+**
 
 ![Konzept](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Image%20(1).jpg)
