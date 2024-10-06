@@ -14,6 +14,29 @@ Die Server und die Clients, die wir erstellen müssen, lauten wie folgt:
 - Windows 10 (Enterprise)
 - Ubuntu
 
+# Geräte
+
+## Windows Client
+- IP-Adresse: 192.168.1.60
+
+## Ubuntu
+- IP-Adresse: 192.168.1.61
+
+## TrueNAS
+- IP-Adresse: 192.168.1.128
+
+## Windows Server
+- IP-Adresse: 192.168.1.100
+
+## Berechtigungsmatrix
+
+| Sharename   | GL          | Design      | Marketing   | IT          |
+|:------------|:------------|:------------|:------------|:------------|
+| GL          | Vollzugriff | Read        | Read        | nan         |
+| Design      | Read        | Vollzugriff | Read        | nan         |
+| Marketing   | Read        | Read        | Vollzugriff | nan         |
+| IT          | nan         | nan         | nan         | Vollzugriff |
+
 ## Ressourcen, die wir verwendet haben
 
 [**TrueNAS Backup & Recovery Tutorial** - Lawrence Systems](https://www.youtube.com/watch?v=XIj0iHtZvOg)
