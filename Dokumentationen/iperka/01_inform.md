@@ -21,12 +21,13 @@ Windows Server 2019
 
 ## Berechtigungsmatrix
 
-| Sharename   | GL          | Design      | Marketing   | IT          |
-|:------------|:------------|:------------|:------------|:------------|
-| GL          | Vollzugriff | Read        | Read        | 0           |
-| Design      | Read        | Vollzugriff | Read        | 0           |
-| Marketing   | Read        | Read        | Vollzugriff | 0           |
-| IT          | 0           | 0           | 0           | Vollzugriff |
+| Sharename            | Geschäftsleitung | Design_Publishing | Marketing_Sales | IT-Administration | Abwicklung   |
+|:---------------------|:-----------------|:------------------|:----------------|:------------------|:-------------|
+| GL                   | Vollzugriff      | Read              | Read            | 0                 | Read         |
+| Design_Publishing     | Read             | Vollzugriff       | Read            | 0                 | Read         |
+| Marketing_Sales       | Read             | Read              | Vollzugriff     | 0                 | Read         |
+| IT-Administration     | 0                | 0                 | 0               | Vollzugriff       | 0            |
+| Abwicklung           | Read             | Read              | Read            | 0                 | Vollzugriff  |
 
 
 ## Ressourcen, die wir verwendet haben
