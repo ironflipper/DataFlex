@@ -28,6 +28,12 @@ Hier sahen wir uns ein Tutorial auf YouTube an, welches erklärt, wie man **iSCS
 ![iSCSI-Tutorial](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Bild%20(2).png)
 
 
+---
+# iSCSI Einrichten in TrueNAS
+
+![iSCSI TrueNAS Screenshot](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/iscsi-truenas.png)
+
+Hier wird die Konfiguration von *iSCSI* in *TrueNAS* gezeigt. Ein neues Block-Gerät mit dem Namen *iscsi-design-publisher* wird erstellt und der Pfad im Pool /Backup/Design_Publishing gewählt. Die Größe des Geräts ist auf *5 GiB* festgelegt. Die Freigabeplattform ist für VMware optimiert, mit aktivierter *TPC* und *SSD-Geschwindigkeit*, ohne Xen-Kompatibilitätsmodus. Dies ermöglicht es, Speicherressourcen über das Netzwerk zu teilen und auf sie zuzugreifen.
 
 
 # TrueNAS – Einrichten eines Files unter einem Pool
