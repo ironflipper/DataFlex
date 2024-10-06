@@ -29,15 +29,3 @@ Hier sahen wir uns ein Tutorial auf YouTube an, welches erklärt, wie man **iSCS
 
 ---
 
-## Fullbackup erstellen
-
-- Zunächst öffneten wir das Programm **Windows Server-Sicherung** auf unserem Windows Server.
-- Danach wählten wir die **Einmalsicherung** aus.
-  
-  - Hier wird das Ziel festgelegt, wo die Sicherung gespeichert werden soll. In diesem Fall wurde das Volume "E:" als Sicherungsziel ausgewählt.
-  - Da es sich um eine vollständige Sicherung handelt, werden alle Daten auf das ausgewählte Laufwerk gesichert.
-
-![Windows Server-Sicherung](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Bild%20(10).png)
-
-![Sicherungsziel festlegen](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Bild%20(13).png)
-
