@@ -25,22 +25,20 @@ Danach haben wir die Benutzer erstellt. Im folgenden Bild ist einer dieser Benut
 
 ![iSCSI TrueNAS Screenshot](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/iscsi%20truernas.png)
 
-Hier wird die Konfiguration von *iSCSI* in *TrueNAS* gezeigt. Ein neues Block-Gerät mit dem Namen *iscsi-design-publisher* wird erstellt und der Pfad im Pool /Backup/Design_Publishing gewählt. Die Größe des Geräts ist auf *5 GiB* festgelegt. Die Freigabeplattform ist für VMware optimiert, mit aktivierter *TPC* und *SSD-Geschwindigkeit*, ohne Xen-Kompatibilitätsmodus. Dies ermöglicht es, Speicherressourcen über das Netzwerk zu teilen und auf sie zuzugreifen.
-
+Hier wird die Konfiguration von iSCSI in TrueNAS gezeigt. Ein neues Block-Gerät mit dem Namen iscsi-design-publisher wird erstellt und der Pfad im Pool /Backup/Design_Publishing gewählt. 
 
 ### TrueNAS – Einrichten eines Files unter einem Pool
 
 ![TrueNAS Screenshot](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/true.png)
 
-In der *TrueNAS*-Benutzeroberfläche wird ein File unter einem Pool eingerichtet. Der Pfad des Verzeichnisses ist /mnt/Backup/Geschäftsleitung. Der Benutzer *root* und die Gruppe *Geschäftsleitung* haben erweiterte Berechtigungen. Die Konfiguration zeigt, dass die Gruppe *Geschäftsleitung* Zugriff auf das Verzeichnis hat, und grundlegende sowie erweiterte Berechtigungen (Lesen, Schreiben, Anhängen von Daten) erteilt wurden. Der Zugriffstyp ist auf „Erlauben“ gestellt.
-
+In  TrueNAS wird ein File unter einem Pool eingerichtet. 
 ---
 
 ### Yeez1 FullBackup
 
 ![Yeez1 FullBackup Screenshot](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/backu2.png)
 
-Die Benutzeroberfläche von *Duplicati* zeigt die Sicherung *Yeez1 FullBackup*, die für morgen um 13:00 Uhr geplant ist. Bisher wurde keine erfolgreiche Sicherung durchgeführt, aber es gibt die Option, die Sicherung sofort zu starten („Jetzt sichern“).
+Die Benutzeroberfläche von Duplicati zeigt die Sicherung *Yeez1 FullBackup*, die für morgen um 13:00 Uhr geplant ist. 
 
 ---
 
@@ -48,4 +46,4 @@ Die Benutzeroberfläche von *Duplicati* zeigt die Sicherung *Yeez1 FullBackup*, 
 
 ![Sicherung hinzufügen und Zeitplan Screenshot](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/basckip.png)
 
-Hier wird die Konfiguration der automatischen Sicherungen in *Duplicati* dargestellt. Die Sicherung ist so eingestellt, dass sie automatisch ausgeführt wird, wenn ein geplanter Zeitpunkt verpasst wurde. Der nächste geplante Zeitpunkt ist der *07.10.2024 um 13:00 Uhr*, mit täglicher Wiederholung. Alle Wochentage sind für die Ausführung der Sicherung ausgewählt.
+Hier wird die Konfiguration der  Sicherungen in Duplicati dargestellt. Die Sicherung ist so eingestellt, dass sie automatisch ausgeführt wird. Der nächste geplante Zeitpunkt ist der 07.10.2024 um 13:00 Uhr, mit täglicher Wiederholung.
