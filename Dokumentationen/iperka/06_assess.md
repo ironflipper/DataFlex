@@ -14,5 +14,5 @@ Ein weiterer Schlüsselfaktor war die gegenseitige Unterstützung im Team. Wir h
 
 Ohne diese strukturierte Herangehensweise und die enge Zusammenarbeit wäre unser Projekt wahrscheinlich nicht so erfolgreich gewesen. Durch die Teamarbeit und die klare Kommunikation konnten wir eine solide Lösung entwickeln, die auch kreative Ansätze beinhaltete.
 
-**Abschlusswort**  
+## Abschlusswort  
 Dieses Projekt war eine grossartige Gelegenheit, durch klare Kommunikation und Zusammenarbeit ein erfolgreiches Ergebnis zu erzielen.
