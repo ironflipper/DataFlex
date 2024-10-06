@@ -31,10 +31,10 @@ Die Server und die Clients, die wir erstellen müssen, lauten wie folgt:
 
 | Sharename   | GL          | Design      | Marketing   | IT          |
 |:------------|:------------|:------------|:------------|:------------|
-| GL          | Vollzugriff | Read        | Read        | nan         |
-| Design      | Read        | Vollzugriff | Read        | nan         |
-| Marketing   | Read        | Read        | Vollzugriff | nan         |
-| IT          | nan         | nan         | nan         | Vollzugriff |
+| GL          | Vollzugriff | Read        | Read        | 0           |
+| Design      | Read        | Vollzugriff | Read        | 0           |
+| Marketing   | Read        | Read        | Vollzugriff | 0           |
+| IT          | 0           | 0           | 0           | Vollzugriff |
 
 
 ## Ressourcen, die wir verwendet haben
