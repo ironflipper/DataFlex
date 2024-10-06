@@ -27,5 +27,4 @@ Hier sahen wir uns ein Tutorial auf YouTube an, welches erklärt, wie man **iSCS
 
 ![iSCSI-Tutorial](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Bild%20(2).png)
 
----
 
