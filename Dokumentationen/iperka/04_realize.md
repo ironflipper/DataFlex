@@ -29,14 +29,14 @@ Hier sahen wir uns ein Tutorial auf YouTube an, welches erklärt, wie man **iSCS
 
 
 ---
-# iSCSI Einrichten in TrueNAS
+### iSCSI Einrichten in TrueNAS
 
 ![iSCSI TrueNAS Screenshot](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/iscsi-truenas.png)
 
 Hier wird die Konfiguration von *iSCSI* in *TrueNAS* gezeigt. Ein neues Block-Gerät mit dem Namen *iscsi-design-publisher* wird erstellt und der Pfad im Pool /Backup/Design_Publishing gewählt. Die Größe des Geräts ist auf *5 GiB* festgelegt. Die Freigabeplattform ist für VMware optimiert, mit aktivierter *TPC* und *SSD-Geschwindigkeit*, ohne Xen-Kompatibilitätsmodus. Dies ermöglicht es, Speicherressourcen über das Netzwerk zu teilen und auf sie zuzugreifen.
 
 
-# TrueNAS – Einrichten eines Files unter einem Pool
+### TrueNAS – Einrichten eines Files unter einem Pool
 
 ![TrueNAS Screenshot](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/true.png)
 
@@ -44,7 +44,7 @@ In der *TrueNAS*-Benutzeroberfläche wird ein File unter einem Pool eingerichtet
 
 ---
 
-# Yeez1 FullBackup
+### Yeez1 FullBackup
 
 ![Yeez1 FullBackup Screenshot](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/backu2.png)
 
@@ -52,7 +52,7 @@ Die Benutzeroberfläche von *Duplicati* zeigt die Sicherung *Yeez1 FullBackup*, 
 
 ---
 
-# Sicherung hinzufügen und Zeitplan konfigurieren
+### Sicherung hinzufügen und Zeitplan konfigurieren
 
 ![Sicherung hinzufügen und Zeitplan Screenshot](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/basckip.png)
 
