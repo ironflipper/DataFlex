@@ -7,16 +7,16 @@ Dieser Teamname steht für die *Flexibilität im Umgang mit Daten*, was ein star
 
 ## Server und CLients
 
-### Windows Client
+### Windows 10 Enterprise
 - **IP-Adresse:** 192.168.1.60
 
-### Ubuntu
+### Ubuntu 22.04.1
 - **IP-Adresse:** 192.168.1.61
 
 ### TrueNAS
 - **IP-Adresse:** 192.168.1.128
 
-### Windows Server
+### Windows Server 2019
 - **IP-Adresse:** 192.168.1.100
 
 ## Berechtigungsmatrix
