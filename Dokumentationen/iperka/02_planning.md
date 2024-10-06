@@ -32,7 +32,7 @@ Die **3-2-1-Backup-Strategie** wird für maximale Datensicherheit implementiert:
 
 Das Projekt sieht vor, dass zwei Clients (Windows und Linux) auf einen zentralen **Windows-Server** zugreifen, der wiederum mit einem **TrueNAS**-Speichersystem verbunden ist.
 
-- **Windows-Server**: Verwalter der zentralen **Shares**, die verschiedenen Benutzern zugeordnet sind.
+- **Windows-Server**: Verwalter der zentralen **Shares**, die verschiedenen Gruppen zugeordnet sind.
 - **TrueNAS**: Dient als zentrale Speicherlösung. Der Windows-Server wird über eine iSCSI-Verbindung mit dem NAS verbunden, und alle Backups werden mit **Duplicati** durchgeführt. Das Full-Backup wird dabei auf dem NAS gespeichert, um die Datensicherheit zu gewährleisten.
 
 
