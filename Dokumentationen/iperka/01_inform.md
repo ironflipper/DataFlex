@@ -5,15 +5,7 @@ Unser Chef will den Auftrag bekommen und hat uns die Aufgabe zugeteilt und mitge
 Nun haben wir ein Team erstellt: "Dataflex" und unser Projekt "Dataflex Project".  
 Dieser Teamname steht für die *Flexibilität im Umgang mit Daten*, was ein starkes, zukunftsorientiertes Bild für unser Team schafft.
 
-## Server und Clients
-
-Die Server und die Clients, die wir erstellen müssen, lauten wie folgt:
-- TrueNAS
-- Windows Server 2019
-- Windows 10 (Enterprise)
-- Ubuntu
-
-## Geräte
+## Server und CLients
 
 ### Windows Client
 - **IP-Adresse:** 192.168.1.60
