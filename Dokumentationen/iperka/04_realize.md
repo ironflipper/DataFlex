@@ -40,7 +40,7 @@ In der *TrueNAS*-Benutzeroberfläche wird ein File unter einem Pool eingerichtet
 
 # Yeez1 FullBackup
 
-![Yeez1 FullBackup Screenshot](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/backu2).png)
+![Yeez1 FullBackup Screenshot](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/backu2.png)
 
 Die Benutzeroberfläche von *Duplicati* zeigt die Sicherung *Yeez1 FullBackup*, die für morgen um 13:00 Uhr geplant ist. Bisher wurde keine erfolgreiche Sicherung durchgeführt, aber es gibt die Option, die Sicherung sofort zu starten („Jetzt sichern“).
 
