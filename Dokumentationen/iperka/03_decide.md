@@ -33,3 +33,13 @@ Wir haben den Windows Setup für unseren Server durchgeführt. Dabei entschieden
 
 ![RAID-Z Pool](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Bild%20(5).png)  
 Anfangs hatten wir für jede Abteilung eine separate Disk eingerichtet. Später haben wir dies jedoch geändert und die drei Disks in einem Pool zusammengefasst, der mit RAID-Z konfiguriert ist. Innerhalb dieses Pools sind die Abteilungen nun strukturiert unterteilt.
+
+
+## Fullbackup 
+
+- Anfangs hatten wir die Idee, den Fullbackup auf dem Windows-Server per Win-Tools zu machen, 
+jedoch hatten wir uns dann für Duplicati entschieden, um das Backup auf dem NAS zu machen 
+
+![Windows Server-Sicherung](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Bild%20(10).png)
+
+
