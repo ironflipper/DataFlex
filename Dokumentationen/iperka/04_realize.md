@@ -46,4 +46,4 @@ Die Benutzeroberfläche von Duplicati zeigt die Sicherung *Yeez1 FullBackup*, di
 
 ![Sicherung hinzufügen und Zeitplan Screenshot](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/basckip.png)
 
-Hier wird die Konfiguration der  Sicherungen in Duplicati dargestellt. Die Sicherung ist so eingestellt, dass sie automatisch ausgeführt wird. Der nächste geplante Zeitpunkt ist der 07.10.2024 um 13:00 Uhr, mit täglicher Wiederholung.
+Hier wird die Konfiguration der  Sicherungen in Duplicati dargestellt. Die Sicherung ist so eingestellt, dass sie automatisch ausgeführt wird. Der nächste geplante Zeitpunkt ist der 07.10.2024 um 13:00 Uhr.
