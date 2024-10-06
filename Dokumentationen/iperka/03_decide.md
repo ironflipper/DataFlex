@@ -40,6 +40,6 @@ Anfangs hatten wir für jede Abteilung eine separate Disk eingerichtet. Später 
 - Anfangs hatten wir die Idee, den Fullbackup auf dem Windows-Server per Win-Tools zu machen, 
 jedoch hatten wir uns dann für Duplicati entschieden, um das Backup auf dem NAS zu machen 
 
-![Windows Server-Sicherung](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Bild%20(10).png)
+![Sicherungsziel festlegen](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Bild%20(13).png)
 
 
