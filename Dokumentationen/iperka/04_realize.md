@@ -27,11 +27,11 @@ Danach haben wir die Benutzer erstellt. Im folgenden Bild ist einer dieser Benut
 
 Hier wird die Konfiguration von iSCSI in TrueNAS gezeigt. Ein neues Block-Gerät mit dem Namen iscsi-design-publisher wird erstellt und der Pfad im Pool /Backup/Design_Publishing gewählt. 
 
-### TrueNAS – Einrichten eines Files unter einem Pool
+# TrueNAS – Berechtigungen von Ordnern
 
 ![TrueNAS Screenshot](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/true.png)
 
-In  TrueNAS wird ein File unter einem Pool eingerichtet. 
+In diesem Abschnitt wurden die Berechtigungen für den Ordner Geschäftsleitung in TrueNAS angepasst. Die Gruppe 
 ---
 
 ### Yeez1 FullBackup
