@@ -40,7 +40,7 @@ In diesem Abschnitt wurden die Berechtigungen für den Ordner Geschäftsleitung 
 Auf dieser Abbildung sieht man die konfigurierten Pools.
 
 ---
-###Linux NFS-Setup
+### Linux NFS-Setup
 
 Commands, um bei uns den NFS-Share einzurichten:
 
