@@ -22,13 +22,13 @@ Dieser Teamname steht für die *Flexibilität im Umgang mit Daten*, was ein star
 
 ## Berechtigungsmatrix und Organigramm der Infrastruktur Yeez1 AG
 
-| Sharename            | Geschäftsleitung | Design_Publishing | Marketing_Sales | IT-Administration | Abwicklung   |
-|:---------------------|:-----------------|:------------------|:----------------|:------------------|:-------------|
-| GL                   | Vollzugriff      | Read              | Read            | 0                 | Read         |
-| Design_Publishing     | Read             | Vollzugriff       | Read            | 0                 | Read         |
-| Marketing_Sales       | Read             | Read              | Vollzugriff     | 0                 | Read         |
-| IT-Administration     | 0                | 0                 | 0               | Vollzugriff       | 0            |
-| Abwicklung           | Read             | Read              | Read            | 0                 | Vollzugriff  |
+| Share            | Geschäftsleitung  | Design_Publishing  | Marketing_Sales  | IT-Administration  | Abwicklung      |
+|:---------------------|:------------------|:-------------------|:-----------------|:-------------------|:----------------|
+| GL                   | Vollzugriff       | Read               | Read             | Kein Zugriff       | Read            |
+| Design_Publishing     | Read              | Vollzugriff        | Read             | Kein Zugriff       | Read            |
+| Marketing_Sales       | Read              | Read               | Vollzugriff      | Kein Zugriff       | Read            |
+| IT-Administration     | Vollzugriff       | Vollzugriff        | Vollzugriff      | Vollzugriff        | Vollzugriff     |
+| Abwicklung            | Read              | Read               | Read             | Kein Zugriff       | Vollzugriff     |
 
 ![Organigramm](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/organigramm.png)
 
