@@ -16,6 +16,7 @@ Dieser Teamname steht für die *Flexibilität im Umgang mit Daten*, was ein star
 | Windows Server   | Windows Server 2019       | 192.168.1.100    |
 
 **DNS:** 192.168.1.1
+
 **Subnetzmaske:** 255.255.255.0/24
 
 
