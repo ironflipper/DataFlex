@@ -19,7 +19,7 @@ TrueNAS
 Windows Server 2019
 - **IP-Adresse:** 192.168.1.100
 
-## Berechtigungsmatrix
+## Berechtigungsmatrix und Organigramm der Infrastruktur Yeez1 AG
 
 | Sharename            | Geschäftsleitung | Design_Publishing | Marketing_Sales | IT-Administration | Abwicklung   |
 |:---------------------|:-----------------|:------------------|:----------------|:------------------|:-------------|
@@ -29,6 +29,7 @@ Windows Server 2019
 | IT-Administration     | 0                | 0                 | 0               | Vollzugriff       | 0            |
 | Abwicklung           | Read             | Read              | Read            | 0                 | Vollzugriff  |
 
+<img src="https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/organigramm.png"
 
 ## Ressourcen, die wir verwendet haben
 
