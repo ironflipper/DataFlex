@@ -15,8 +15,8 @@ Dieser Teamname steht für die *Flexibilität im Umgang mit Daten*, was ein star
 | TrueNAS          | TrueNAS CORE 13.0-U6.2    | 192.168.1.128    |
 | Windows Server   | Windows Server 2019       | 192.168.1.100    |
 
-- **DNS:** 192.168.1.1
-- **Subnetzmaske:** 255.255.255.0/24
+**DNS:** 192.168.1.1
+**Subnetzmaske:** 255.255.255.0/24
 
 
 ## Berechtigungsmatrix und Organigramm der Infrastruktur Yeez1 AG
