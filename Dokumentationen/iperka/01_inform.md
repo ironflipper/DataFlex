@@ -29,7 +29,7 @@ Windows Server 2019
 | IT-Administration     | 0                | 0                 | 0               | Vollzugriff       | 0            |
 | Abwicklung           | Read             | Read              | Read            | 0                 | Vollzugriff  |
 
-<img src="https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/organigramm.png"
+<img src="github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/organigramm.png"
 
 ## Ressourcen, die wir verwendet haben
 
