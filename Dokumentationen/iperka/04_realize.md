@@ -45,8 +45,11 @@ Linux NFS-Setup
 Commands, um bei uns den NFS-Share einzurichten
 
 sudo apt update
+
 sudo apt install nfs-common
+
 sudo mkdir /mnt/it-administration
+
 sudo mount 192.168.1.80:/IT-Administration /mnt/it-administration
 
  ---
