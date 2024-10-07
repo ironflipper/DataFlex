@@ -5,19 +5,19 @@ Unser Chef will den Auftrag bekommen und hat uns die Aufgabe zugeteilt und mitge
 Nun haben wir ein Team erstellt: "Dataflex" und unser Projekt "Dataflex Project".  
 Dieser Teamname steht für die *Flexibilität im Umgang mit Daten*, was ein starkes, zukunftsorientiertes Bild für unser Team schafft.
 
-## Server und CLients
 
-Windows 10 Enterprise
-- **IP-Adresse:** 192.168.1.60
+## Server und Clients
 
-Ubuntu 22.04.1
-- **IP-Adresse:** 192.168.1.80
+| System           | Version                  | IP-Adresse       |
+|------------------|--------------------------|------------------|
+| Windows Client   | Windows 10 Enterprise     | 192.168.1.60     |
+| Linux Client     | Ubuntu 22.04.1            | 192.168.1.80     |
+| TrueNAS          | TrueNAS CORE 13.0-U6.2    | 192.168.1.128    |
+| Windows Server   | Windows Server 2019       | 192.168.1.100    |
 
-TrueNAS
-- **IP-Adresse:** 192.168.1.128
+- **DNS:** 192.168.1.1
+- **Subnetzmaske:** 255.255.255.0/24
 
-Windows Server 2019
-- **IP-Adresse:** 192.168.1.100
 
 ## Berechtigungsmatrix und Organigramm der Infrastruktur Yeez1 AG
 
