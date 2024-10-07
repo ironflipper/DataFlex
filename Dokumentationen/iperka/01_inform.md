@@ -11,7 +11,7 @@ Windows 10 Enterprise
 - **IP-Adresse:** 192.168.1.60
 
 Ubuntu 22.04.1
-- **IP-Adresse:** 192.168.1.61
+- **IP-Adresse:** 192.168.1.80
 
 TrueNAS
 - **IP-Adresse:** 192.168.1.128
