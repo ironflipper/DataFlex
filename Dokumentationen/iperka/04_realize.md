@@ -37,7 +37,7 @@ In diesem Abschnitt wurden die Berechtigungen für den Ordner Geschäftsleitung 
 
 ![TrueNAS Pools](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/truenaspools.png)
 
-Auf dieser Abbildung sieht man die konfigurierten Pools
+Auf dieser Abbildung sieht man die konfigurierten Pools.
 
 ---
 
