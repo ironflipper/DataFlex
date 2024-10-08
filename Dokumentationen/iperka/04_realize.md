@@ -39,6 +39,12 @@ In diesem Abschnitt wurden die Berechtigungen für den Ordner Geschäftsleitung 
 
 Auf dieser Abbildung sieht man die konfigurierten Pools.
 
+### Raid-Z
+
+![Raidz](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/raidz.png)
+
+Mit dem Befehl "zpool status" konnten wir dies anzeigen lassen.
+
 ---
 ### Linux NFS-Setup
 
