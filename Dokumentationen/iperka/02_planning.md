@@ -36,4 +36,4 @@ Das Projekt sieht vor, dass zwei Clients (Windows und Linux) auf einen zentralen
 - **TrueNAS**: Dient als zentrale Speicherlösung. Der Windows-Server wird über eine iSCSI-Verbindung mit dem NAS verbunden, und alle Backups werden mit **Duplicati** durchgeführt. Das Full-Backup wird dabei auf dem NAS gespeichert, um die Datensicherheit zu gewährleisten.
 
 
-![Konzept](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/Image%20(1).jpg)
+![Konzept](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/KOnzeptt.png)
