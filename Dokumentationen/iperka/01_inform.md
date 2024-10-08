@@ -24,7 +24,7 @@ Dieser Teamname steht für die *Flexibilität im Umgang mit Daten*, was ein star
 
 | Share                | Geschäftsleitung  | Design_Publishing  | Marketing_Sales  | IT-Administration  | Abwicklung        |
 |:---------------------|:------------------|:-------------------|:-----------------|:-------------------|:------------------|
-| GL                   | Ändern            | Kein Zugriff       | Kein Zugriff     | Kein Zugriff        | Kein Zugriff      |
+| Geschäftsleitung     | Ändern            | Kein Zugriff       | Kein Zugriff     | Kein Zugriff        | Kein Zugriff      |
 | Design_Publishing     | Kein Zugriff      | Ändern             | Kein Zugriff     | Kein Zugriff        | Kein Zugriff      |
 | Marketing_Sales       | Kein Zugriff      | Kein Zugriff       | Ändern           | Kein Zugriff         | Kein Zugriff      |
 | IT-Administration     | Vollzugriff       | Vollzugriff        | Vollzugriff      | Vollzugriff        | Vollzugriff       |
