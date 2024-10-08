@@ -41,7 +41,7 @@ Auf dieser Abbildung sieht man die konfigurierten Pools.
 
 ### Raid-Z
 
-![Raidz](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/raidz.png)
+![Raidz](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/raidzz.png)
 
 Mit dem Befehl "zpool status" konnten wir dies anzeigen lassen.
 
