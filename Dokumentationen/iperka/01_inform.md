@@ -24,11 +24,12 @@ Dieser Teamname steht für die *Flexibilität im Umgang mit Daten*, was ein star
 
 | Share                | Geschäftsleitung  | Design_Publishing  | Marketing_Sales  | IT-Administration  | Abwicklung        |
 |:---------------------|:------------------|:-------------------|:-----------------|:-------------------|:------------------|
-| GL                   | Ändern            | Lesen              | Lesen            | Kein Zugriff        | Lesen             |
-| Design_Publishing     | Lesen             | Ändern             | Lesen            | Kein Zugriff         | Lesen             |
-| Marketing_Sales       | Lesen             | Lesen              | Ändern           | Kein Zugriff         | Lesen             |
-| IT-Administration     | Vollzugriff     | Vollzugriff       |Vollzugriff    | Vollzugriff        | Vollzugriff      |
-| Abwicklung            | Lesen             | Lesen              | Lesen            | Kein Zugriff         | Ändern            |
+| GL                   | Ändern            | Kein Zugriff       | Kein Zugriff     | Kein Zugriff        | Kein Zugriff      |
+| Design_Publishing     | Kein Zugriff      | Ändern             | Kein Zugriff     | Kein Zugriff        | Kein Zugriff      |
+| Marketing_Sales       | Kein Zugriff      | Kein Zugriff       | Ändern           | Kein Zugriff         | Kein Zugriff      |
+| IT-Administration     | Vollzugriff       | Vollzugriff        | Vollzugriff      | Vollzugriff        | Vollzugriff       |
+| Abwicklung            | Kein Zugriff      | Kein Zugriff       | Kein Zugriff     | Kein Zugriff        | Ändern            |
+
 
 
 ![Organigramm](https://github.com/ironflipper/DataFlex/blob/main/Dokumentationen/iperka/Images/organigramm.png)
