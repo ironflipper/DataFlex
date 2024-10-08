@@ -22,11 +22,11 @@ Dieser Teamname steht für die *Flexibilität im Umgang mit Daten*, was ein star
 
 ## Berechtigungsmatrix und Organigramm der Infrastruktur Yeez1 AG
 
-| Share                | Geschäftsleitung  | Design/Publishing  | Marketing/Sales  | IT-Administration  | Abwicklung        |
+| Share                | Geschäftsleitung  |  Design_Publishing  | Marketing_Sales  | IT-Administration  | Abwicklung        |
 |:---------------------|:------------------|:-------------------|:-----------------|:-------------------|:------------------|
 | Geschäftsleitung     | Ändern            | Kein Zugriff       | Kein Zugriff     | Kein Zugriff        | Kein Zugriff      |
-| Design_Publishing     | Kein Zugriff      | Ändern             | Kein Zugriff     | Kein Zugriff        | Kein Zugriff      |
-| Marketing_Sales       | Kein Zugriff      | Kein Zugriff       | Ändern           | Kein Zugriff         | Kein Zugriff      |
+|   Design/Publishing   | Kein Zugriff      | Ändern             | Kein Zugriff     | Kein Zugriff        | Kein Zugriff      |
+|     Marketing/Sales   | Kein Zugriff      | Kein Zugriff       | Ändern           | Kein Zugriff         | Kein Zugriff      |
 | IT-Administration     | Vollzugriff       | Vollzugriff        | Vollzugriff      | Vollzugriff        | Vollzugriff       |
 | Abwicklung            | Kein Zugriff      | Kein Zugriff       | Kein Zugriff     | Kein Zugriff        | Ändern            |
 
